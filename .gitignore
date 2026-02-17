@@ -1,0 +1,38 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.spec
+
+# Local configuration and logs
+config.json
+dlc_sizes.json
+config.json
+dlc_sizes.json
+logs/
+*.log
+fetch_sizes.py
+check_urls.py
+version.txt
+icon.png
+app.manifest
+git_upload.bat
+build_windows.bat
+7z/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.idea/
+.vscode/
