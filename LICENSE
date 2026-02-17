@@ -2,5 +2,14 @@ Copyright (c) 2026 Limon4ik66607
 
 All rights reserved.
 
-The contents of this repository, including all code, assets, and documentation, are the intellectual property of Limon4ik66607.
+The contents of this repository, including all source code (Python), assets, and documentation for "Lemon Unlocker", are the intellectual property of Limon4ik66607.
 Unauthorized copying, modification, distribution, or use of this software, in whole or in part, is strictly prohibited.
+
+--------------------------------------------------------------------------------
+
+EXCLUSION FOR THIRD-PARTY TOOLS:
+
+This software bundles the "EA DLC Unlocker v2" which is NOT the property of Limon4ik66607.
+The "EA DLC Unlocker v2" is developed by and claims the rights of "anadius".
+All files within the "unlocker/" directory (or related unlocker components) remain the property of their respective creator (anadius).
+Lemon Unlocker is a wrapper/GUI tool and does not claim ownership of the underlying unlocking logic provided by anadius.
